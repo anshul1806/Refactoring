@@ -7,5 +7,6 @@ namespace RefactoringPractices.MovieClasses
 {
     class Customer
     {
+        public String Name { get; set; }
     }
 }
