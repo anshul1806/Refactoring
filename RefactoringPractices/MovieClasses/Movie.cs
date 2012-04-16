@@ -8,12 +8,12 @@ namespace RefactoringPractices.MovieClasses
      public class Movie
     {
          public String _title;
-         private int _priceCode;
-         public int GetPriceCode ()
+         private String _priceCode;
+         public String GetPriceCode ()
          {
              return this._priceCode;
          }
-         public void SetPriceCode (int priceCode)
+         public void SetPriceCode (String priceCode)
          {
              _priceCode = priceCode;
          }
@@ -22,14 +22,14 @@ namespace RefactoringPractices.MovieClasses
              return _title;
          }
 
-         public Movie(String title , int priceCode)
+         public Movie(String title , String priceCode)
          {
              _priceCode = priceCode;
              _title = title;
          }
-         public const int CHILDREN = 2;
-         public const int REGULAR = 0;
-         public const int NEW_RELEASE = 1;
+         public static  String CHILDREN = "2";
+         public static String REGULAR = "0";
+         public static String NEW_RELEASE = "1";
 
 
 
