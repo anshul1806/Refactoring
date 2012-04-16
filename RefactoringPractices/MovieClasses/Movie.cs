@@ -32,6 +32,7 @@ namespace RefactoringPractices.MovieClasses
          public const int NEW_RELEASE = 1;
 
 
+
     }
 
     
