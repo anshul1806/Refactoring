@@ -1,0 +1,5 @@
+C:\Users\anu\Refactoring\RefactoringPractices\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anu\Refactoring\RefactoringPractices\bin\Debug\RefactoringPractices.exe
+C:\Users\anu\Refactoring\RefactoringPractices\bin\Debug\RefactoringPractices.pdb
+C:\Users\anu\Refactoring\RefactoringPractices\obj\x86\Debug\RefactoringPractices.exe
+C:\Users\anu\Refactoring\RefactoringPractices\obj\x86\Debug\RefactoringPractices.pdb
