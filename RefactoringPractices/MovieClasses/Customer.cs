@@ -20,7 +20,7 @@ namespace RefactoringPractices.MovieClasses
         }
         public String PringStatement ()
         {
-            String statement = "Your Rental Charges";
+            String statement = "Your total rental Charges";
             double finalAmt = 0;
             int rentalPoints = 0;
             // local vars
